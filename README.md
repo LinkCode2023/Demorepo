@@ -1,3 +1,3 @@
 # Demo
 
-Markdown the above file name as .md
+Markdown the above file name as -md
